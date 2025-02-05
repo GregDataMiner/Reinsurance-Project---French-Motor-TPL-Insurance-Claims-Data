@@ -7,6 +7,7 @@ This project performs data analysis on insurance claims using **R**. The main ob
 ---
 ![cover](Image/cover.png)
 
+---
 ### **1. Load and prepare data**
 
 ```r
