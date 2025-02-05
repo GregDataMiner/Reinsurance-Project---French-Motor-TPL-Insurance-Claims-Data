@@ -7,9 +7,10 @@ library(ggplot2)
 
 #Chargement des données et préparation
 # Lecture des fichiers Excel
-freq <- read_excel("C:/Users/grego/Documents/USPN M2/REASSURANCE/Projet/freMTPLfreq.xlsx")
-sev <- read_excel("C:/Users/grego/Documents/USPN M2/REASSURANCE/Projet/freMTPLsev.xlsx")
-valorisation <- read_excel("C:/Users/grego/Documents/USPN M2/REASSURANCE/Projet/freMTPLsev.xlsx", sheet = 2)
+#replace "..." by your filepath
+freq <- read_excel(".../freMTPLfreq.xlsx")
+sev <- read_excel(".../freMTPLsev.xlsx")
+valorisation <- read_excel(".../freMTPLsev.xlsx", sheet = 2)
 merged<-merge(freq,sev,by="PolicyID")
 summary(merged)
 head(merged)
