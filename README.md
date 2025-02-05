@@ -2,7 +2,7 @@
 
 This project performs data analysis on insurance claims using **R**. The main objectives are to load and prepare the data, calculate key metrics (e.g., frequency of claims), and visualize the results through histograms.
 
-[The final version of the report is available here](data/reinsurance_project.pdf)
+[The final version of the report is available here](reinsurance_project.pdf)
 
 ---
 ![cover](Image/cover.png)
