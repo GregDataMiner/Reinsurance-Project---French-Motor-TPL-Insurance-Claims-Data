@@ -85,7 +85,7 @@ p3 <- ggplot(freq, aes(x = frequency)) +
 # Display all three plots side by side
 grid.arrange(p1, p2, p3, ncol = 3)
 ```
-![Stats](Images/Stats.png)
+![Stats](Image/Stats.png)
 
 ---
 ### **5. Pure premium calculation and reinsurance analysis**
