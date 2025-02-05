@@ -3,6 +3,7 @@
 This project performs data analysis on insurance claims using **R**. The main objectives are to load and prepare the data, calculate key metrics (e.g., frequency of claims), and visualize the results through histograms.
 
 ---
+![cover](Image/cover.png)
 
 ### **1. Load and prepare data**
 
