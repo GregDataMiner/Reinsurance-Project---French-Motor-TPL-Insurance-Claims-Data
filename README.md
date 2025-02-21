@@ -414,10 +414,13 @@ For a detailed explanation of the methodology, data, and results, refer to the *
 
 ---
 
-#### **Contact**
 
-If you have any questions or suggestions, feel free to open an issue on this repository or contact the project maintainer.
+### 📞 Contact
 
+📧 **Email** : sarsat.gregoire@gmail.com  
+🌍 **LinkedIn** : [mon profil Linkedin](https://www.linkedin.com/in/gregoire-sarsat/)
+
+🌟 **If you found this project interesting don't hesitate to drop a ⭐ on GitHub !** 🚀🎉
 
 
 
